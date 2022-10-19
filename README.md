@@ -1,8 +1,6 @@
-> If you see this section, you've just created a repository using [PoC Innovation's Open-Source project template](https://github.com/PoCInnovation/open-source-project-template). Check the [getting started guide](./.github/getting-started.md).
+# Deep Song 🧠
 
-# [PROJECT'S NAME]
-
-[Project's description]
+The goal of the Deep Song project is to create an application capable of changing the genre of a music thanks to artificial intelligence.   
 
 ## How does it work?
 
@@ -31,11 +29,11 @@ If you're interested in how the project is organized at a higher level, please c
 ## Our PoC team :heart:
 
 Developers
-| [<img src="https://github.com/MrZalTy.png?size=85" width=85><br><sub>[Developer's name]</sub>](https://github.com/MrZalTy) | [<img src="https://github.com/MrZalTy.png?size=85" width=85><br><sub>[Developer's name]</sub>](https://github.com/MrZalTy) | [<img src="https://github.com/MrZalTy.png?size=85" width=85><br><sub>[Developer's name]</sub>](https://github.com/MrZalTy)
-| :---: | :---: | :---: |
+| [<img src="https://github.com/Baragouin.png?size=85" width=85><br><sub>Timothé MEDICO</sub>](https://github.com/Baragouin) | [<img src="https://github.com/Just1truc.png?size=85" width=85><br><sub>Justin DUC</sub>](https://github.com/Just1truc) |
+| :---: | :---: |
 
 Manager
-| [<img src="https://github.com/adrienfort.png?size=85" width=85><br><sub>[Manager's name]</sub>](https://github.com/adrienfort)
+| [<img src="https://github.com/LayBraid.png?size=85" width=85><br><sub>Clément LOEUILLET</sub>](https://github.com/LayBraid) |
 | :---: |
 
 <h2 align=center>
