@@ -34,4 +34,6 @@ class ColorDisplayer(QWidget):
 
     @pyqtSlot()
     def close(self):
+        self.updater.kill()
+        self.updater.join()
         exit(0)
