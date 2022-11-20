@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<description name="Japanese">
+ <brush brushstyle="RadialGradientPattern">
+  <gradient centralx="0.500000000000000" centraly="0.500000000000000" focalx="0.500000000000000" focaly="0.500000000000000" radius="0.500000000000000" type="RadialGradient" spread="PadSpread" coordinatemode="StretchToDeviceMode">
+   <gradientstop position="0.000000000000000">
+    <color alpha="255">
+     <red>255</red>
+     <green>0</green>
+     <blue>0</blue>
+    </color>
+   </gradientstop>
+   <gradientstop position="0.490000000000000">
+    <color alpha="255">
+     <red>255</red>
+     <green>0</green>
+     <blue>0</blue>
+    </color>
+   </gradientstop>
+   <gradientstop position="0.510000000000000">
+    <color alpha="255">
+     <red>255</red>
+     <green>255</green>
+     <blue>255</blue>
+    </color>
+   </gradientstop>
+   <gradientstop position="1.000000000000000">
+    <color alpha="255">
+     <red>255</red>
+     <green>255</green>
+     <blue>255</blue>
+    </color>
+   </gradientstop>
+  </gradient>
+ </brush>
+</description>
