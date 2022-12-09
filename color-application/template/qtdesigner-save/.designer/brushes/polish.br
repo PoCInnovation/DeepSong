@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<description name="Polish">
+ <brush brushstyle="LinearGradientPattern">
+  <gradient startx="0.000000000000000" starty="0.000000000000000" endx="0.000000000000000" endy="1.000000000000000" type="LinearGradient" spread="PadSpread" coordinatemode="StretchToDeviceMode">
+   <gradientstop position="0.000000000000000">
+    <color alpha="255">
+     <red>255</red>
+     <green>255</green>
+     <blue>255</blue>
+    </color>
+   </gradientstop>
+   <gradientstop position="0.475000000000000">
+    <color alpha="255">
+     <red>255</red>
+     <green>255</green>
+     <blue>255</blue>
+    </color>
+   </gradientstop>
+   <gradientstop position="0.525000000000000">
+    <color alpha="255">
+     <red>255</red>
+     <green>0</green>
+     <blue>0</blue>
+    </color>
+   </gradientstop>
+   <gradientstop position="1.000000000000000">
+    <color alpha="255">
+     <red>255</red>
+     <green>0</green>
+     <blue>0</blue>
+    </color>
+   </gradientstop>
+  </gradient>
+ </brush>
+</description>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<description name="magenta">
+ <brush brushstyle="SolidPattern">
+  <color alpha="255">
+   <red>255</red>
+   <green>0</green>
+   <blue>255</blue>
+  </color>
+ </brush>
+</description>
